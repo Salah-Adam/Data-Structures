@@ -7,3 +7,6 @@ Assume the index of a list is started by 1, so This code remove every even index
 This code checks if there is common members between two list.
 - It retunrs True if there are common members.
 - It returns Falso if there are no common members.
+
+# remove_duplicate
+This code removes duplicates from a list
