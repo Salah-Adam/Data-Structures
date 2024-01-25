@@ -10,3 +10,6 @@ This code checks if there is common members between two list.
 
 # remove_duplicate
 This code removes duplicates from a list
+
+# square_list_items
+This code returns a list of the square of each number of another list
