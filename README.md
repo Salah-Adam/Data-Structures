@@ -13,3 +13,6 @@ This code removes duplicates from a list
 
 # square_list_items
 This code returns a list of the square of each number of another list
+
+# nested_dic
+- A simple code for an example nested dictionary
